@@ -1,3 +1,4 @@
+#Hello
 DROP TABLE IF EXISTS Results;
 DROP TABLE IF EXISTS Modules;
 DROP TABLE IF EXISTS Registrations;
